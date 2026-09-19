@@ -80,3 +80,9 @@
   --accent-dark: #855012;
   --accent-soft: #f7efe3;
 }
+/* Marcas da família beleza herdam a cor da família (kit de marca: cor é da família, não do produto) */
+[data-accent="lash"], [data-accent="ink"], [data-accent="massage"], [data-accent="brow"], [data-accent="piercing"] {
+  --accent: #c8306f;
+  --accent-dark: #a02458;
+  --accent-soft: #fbe9f1;
+}
