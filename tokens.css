@@ -55,7 +55,7 @@
   --accent-dark: #0857b8;
   --accent-soft: #e8f1fd;
 }
-[data-accent="schedule"] {
+[data-accent="dental"] {
   --accent: #f06511;
   --accent-dark: #c4500c;
   --accent-soft: #fdeee4;
