@@ -60,12 +60,12 @@
   --accent-dark: #c4500c;
   --accent-soft: #fdeee4;
 }
-[data-accent="budget"] {
+[data-accent="invoice"] {
   --accent: #0f8a5f;
   --accent-dark: #0b6b4a;
   --accent-soft: #e4f4ed;
 }
-[data-accent="vendas"] {
+[data-accent="store"] {
   --accent: #6d28d9;
   --accent-dark: #5b21b6;
   --accent-soft: #efe9fb;
@@ -75,7 +75,7 @@
   --accent-dark: #a02458;
   --accent-soft: #fbe9f1;
 }
-[data-accent="barbearia"] {
+[data-accent="cut"] {
   --accent: #a86618;
   --accent-dark: #855012;
   --accent-soft: #f7efe3;

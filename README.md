@@ -17,7 +17,7 @@ Header branco com **filete de 3 px na cor do produto**, breadcrumb, **título de
 | Papel | Token | Uso |
 |---|---|---|
 | **Marca** | `--brand` (vermelho Heeca) | logo da plataforma, filete do portal |
-| **Acento do produto** | `--accent` / `--accent-dark` / `--accent-soft` (`data-accent="ticket|dental|vendas|budget|nail|barbearia"`) | filete do header do produto, título da página, links, chips/abas selecionados, ícones de destaque, foco |
+| **Acento do produto** | `--accent` / `--accent-dark` / `--accent-soft` (`data-accent="ticket|dental|store|invoice|nail|cut"`) | filete do header do produto, título da página, links, chips/abas selecionados, ícones de destaque, foco |
 | **Ação primária** | `--primary` (quase-preto) + `--primary-hover` + `--primary-foreground` | botão principal de cada tela. **Nunca** a cor do produto |
 
 Dinheiro/estado usam `--success` / `--warning` / `--danger`; cor de produto nunca carrega significado.
